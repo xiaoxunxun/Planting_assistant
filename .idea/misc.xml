@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/layout/activity_main.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/drawable/ic_launcher_background.xml" value="0.207" />
+        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/layout/activity_detail.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/layout/activity_home.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Users/xunshuo/AndroidStudioProjects/Plantingassistant/app/src/main/res/layout/activity_weed.xml" value="0.17119565217391305" />
       </map>
     </option>
   </component>
